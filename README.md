@@ -1,3 +1,4 @@
+```plaintext
 devops-portfolio/
 │
 ├── 01-linux-bash/
@@ -53,3 +54,4 @@ devops-portfolio/
 │   └── README.md      # Full documentation
 │
 └── README.md          # Portfolio overview, project links, skills covered
+```
